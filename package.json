@@ -1,14 +1,22 @@
 {
-  "name": "cursoBot",
+  "name": "myTeleBot",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Robot using Telegram API",
+  "main": "saudacao.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiovenicius/myTeleBot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiovenicius/myTeleBot/issues"
+  },
+  "homepage": "https://github.com/fabiovenicius/myTeleBot#readme",
   "dependencies": {
     "telegraf": "3.17.3"
   }
